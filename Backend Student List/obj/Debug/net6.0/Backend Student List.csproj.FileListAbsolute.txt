@@ -1,0 +1,32 @@
+C:\Users\noups\source\repos\Backend Student List\Backend Student List\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\noups\source\repos\Backend Student List\Backend Student List\bin\Debug\net6.0\appsettings.json
+C:\Users\noups\source\repos\Backend Student List\Backend Student List\bin\Debug\net6.0\Backend Student List.exe
+C:\Users\noups\source\repos\Backend Student List\Backend Student List\bin\Debug\net6.0\Backend Student List.deps.json
+C:\Users\noups\source\repos\Backend Student List\Backend Student List\bin\Debug\net6.0\Backend Student List.runtimeconfig.json
+C:\Users\noups\source\repos\Backend Student List\Backend Student List\bin\Debug\net6.0\Backend Student List.dll
+C:\Users\noups\source\repos\Backend Student List\Backend Student List\bin\Debug\net6.0\Backend Student List.pdb
+C:\Users\noups\source\repos\Backend Student List\Backend Student List\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\noups\source\repos\Backend Student List\Backend Student List\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\noups\source\repos\Backend Student List\Backend Student List\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\noups\source\repos\Backend Student List\Backend Student List\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\noups\source\repos\Backend Student List\Backend Student List\obj\Debug\net6.0\Backend Student List.csproj.AssemblyReference.cache
+C:\Users\noups\source\repos\Backend Student List\Backend Student List\obj\Debug\net6.0\Backend Student List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noups\source\repos\Backend Student List\Backend Student List\obj\Debug\net6.0\Backend Student List.AssemblyInfoInputs.cache
+C:\Users\noups\source\repos\Backend Student List\Backend Student List\obj\Debug\net6.0\Backend Student List.AssemblyInfo.cs
+C:\Users\noups\source\repos\Backend Student List\Backend Student List\obj\Debug\net6.0\Backend Student List.csproj.CoreCompileInputs.cache
+C:\Users\noups\source\repos\Backend Student List\Backend Student List\obj\Debug\net6.0\Backend Student List.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\noups\source\repos\Backend Student List\Backend Student List\obj\Debug\net6.0\Backend Student List.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\noups\source\repos\Backend Student List\Backend Student List\obj\Debug\net6.0\staticwebassets\msbuild.Backend Student List.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\noups\source\repos\Backend Student List\Backend Student List\obj\Debug\net6.0\staticwebassets\msbuild.build.Backend Student List.props
+C:\Users\noups\source\repos\Backend Student List\Backend Student List\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Backend Student List.props
+C:\Users\noups\source\repos\Backend Student List\Backend Student List\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Backend Student List.props
+C:\Users\noups\source\repos\Backend Student List\Backend Student List\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\noups\source\repos\Backend Student List\Backend Student List\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\noups\source\repos\Backend Student List\Backend Student List\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\noups\source\repos\Backend Student List\Backend Student List\obj\Debug\net6.0\scopedcss\bundle\Backend Student List.styles.css
+C:\Users\noups\source\repos\Backend Student List\Backend Student List\obj\Debug\net6.0\Backend Student List.csproj.CopyComplete
+C:\Users\noups\source\repos\Backend Student List\Backend Student List\obj\Debug\net6.0\Backend Student List.dll
+C:\Users\noups\source\repos\Backend Student List\Backend Student List\obj\Debug\net6.0\refint\Backend Student List.dll
+C:\Users\noups\source\repos\Backend Student List\Backend Student List\obj\Debug\net6.0\Backend Student List.pdb
+C:\Users\noups\source\repos\Backend Student List\Backend Student List\obj\Debug\net6.0\Backend Student List.genruntimeconfig.cache
+C:\Users\noups\source\repos\Backend Student List\Backend Student List\obj\Debug\net6.0\ref\Backend Student List.dll
