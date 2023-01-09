@@ -1,4 +1,5 @@
-﻿using Backend_Student_List.Models;
+﻿using Backend_Student_List.Controllers.Request;
+using Backend_Student_List.Models;
 using Backend_Student_List.Services;
 using Microsoft.AspNetCore.Mvc;
 
@@ -16,50 +17,40 @@ namespace Backend_Student_List.Controllers
         }
 
         [HttpGet]
-        public async Task<ActionResult<List<Student>>> GetStudents()
+        public  List<Student> GetStudents()
         {
-            var result = _studentService.GetStudents();
-            return Ok(result);
+            List<Student> students = _studentService.GetStudents();
+            return students;
         }
 
         [HttpGet("{id}")]
-        public async Task<ActionResult<Student>> GetStudentById(int id)
+        public  Student GetStudentById(int id)
         {
-            var result = _studentService.GetStudentById(id);
-            if (result == null)
+            Student student = _studentService.GetStudentById(id);
+            if (student == null)
             {
-                return NotFound("Student Not Found");
+                return null;
             }
-            return Ok(result);
+            return student;
         }
 
         [HttpPost]
-        public async Task<ActionResult<List<Student>>> CreateStudent(Student student)
+        public  Student CreateStudent(StudentRequest student)
         {
-            var result = _studentService.CreateStudent(student);
-            return Ok(result);
+            Student res = _studentService.CreateStudent(student);
+            return res;
         }
 
-        [HttpPut("{id}")]
-        public async Task<ActionResult<List<Student>>> EditStudentById(int id, Student student)
+        [HttpPut]
+        public  String EditStudent(Student student)
         {
-            var result = _studentService.EditStudentById(id, student);
-            if (result is null)
-            {
-                return NotFound("Student Not Found");
-            }
-            return Ok(result);
+            return _studentService.EditStudent(student);
         }
 
         [HttpDelete("{id}")]
-        public async Task<ActionResult<List<Student>>> DeleteStudentById(int id)
+        public  String DeleteStudentById(int id)
         {
-            var result = _studentService.DeleteStudent(id);
-            if (result is null)
-            {
-                return NotFound("Student Not Found");
-            }
-            return Ok(result);
+            return _studentService.DeleteStudent(id);
         }
     }
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\noups\\source\\repos\\Backend Student List\\Backend Student List\\Backend Student List.csproj": {}
+    "C:\\Users\\KDC\\Desktop\\Company\\Student List Fullstack\\.Net-WebAPI-Student-List-Backend\\Backend Student List\\Backend Student List.csproj": {}
   },
   "projects": {
-    "C:\\Users\\noups\\source\\repos\\Backend Student List\\Backend Student List\\Backend Student List.csproj": {
+    "C:\\Users\\KDC\\Desktop\\Company\\Student List Fullstack\\.Net-WebAPI-Student-List-Backend\\Backend Student List\\Backend Student List.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\noups\\source\\repos\\Backend Student List\\Backend Student List\\Backend Student List.csproj",
+        "projectUniqueName": "C:\\Users\\KDC\\Desktop\\Company\\Student List Fullstack\\.Net-WebAPI-Student-List-Backend\\Backend Student List\\Backend Student List.csproj",
         "projectName": "Backend Student List",
-        "projectPath": "C:\\Users\\noups\\source\\repos\\Backend Student List\\Backend Student List\\Backend Student List.csproj",
-        "packagesPath": "C:\\Users\\noups\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\noups\\source\\repos\\Backend Student List\\Backend Student List\\obj\\",
+        "projectPath": "C:\\Users\\KDC\\Desktop\\Company\\Student List Fullstack\\.Net-WebAPI-Student-List-Backend\\Backend Student List\\Backend Student List.csproj",
+        "packagesPath": "C:\\Users\\KDC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\KDC\\Desktop\\Company\\Student List Fullstack\\.Net-WebAPI-Student-List-Backend\\Backend Student List\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\noups\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\KDC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,6 +40,16 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
               "version": "[1.17.0, )"
